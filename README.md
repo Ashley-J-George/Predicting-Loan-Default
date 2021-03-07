@@ -12,6 +12,8 @@ In this data science project, we will predict borrowers chance of defaulting on 
 
 > **Out of the five techniques used in this project, it is found that Artifical Neural Networks gives the highest precision of 82%.**
 
+**Weights file for model1:** two_layer_credit_score_model.h5 
+
 ## **Dataset** 
 
 **Name:** Credit_Scoring.csv
