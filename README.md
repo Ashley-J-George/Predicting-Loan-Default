@@ -1,7 +1,7 @@
 # Predicting-Loan-Default
 In this data science project, we will predict borrowers chance of defaulting on loans by building a default prediction model.
 
-**Default**: The borrower unable to repay the loan
+**Default (Banking Terminology):** The borrower unable to repay the loan
 
 ## **Techniques Used**
 1. Decision Tree Classifier
