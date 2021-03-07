@@ -14,4 +14,22 @@ In this data science project, we will predict borrowers chance of defaulting on 
 
 **Dataset:** Credit_Scoring.csv
 
-**All in One Notebook:** Credit_Scoring.ipynb
+**Features**
+- Status
+- Seniority
+- Home
+- Time
+- Age
+- Marital
+- Records
+- Job
+- Expenses
+- Income
+- Assets
+- Debt
+- Amount
+- Price
+- Finrat
+- Savings
+
+**All in One Notebook:** Default_Predection.ipynb
