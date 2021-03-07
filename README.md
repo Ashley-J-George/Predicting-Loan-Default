@@ -1,5 +1,7 @@
-# Predicting-Credit-Score
-In this data science project, we will predict borrowers chance of defaulting on credit loans by building a credit score prediction model.
+# Predicting-Loan-Default
+In this data science project, we will predict borrowers chance of defaulting on loans by building a default prediction model.
+
+**Default**: The borrower unable to repay the loan
 
 ## **Techniques Used**
 1. Decision Tree Classifier
