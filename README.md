@@ -22,4 +22,15 @@ In this data science project, we will predict borrowers chance of defaulting on 
 
 ![image](https://user-images.githubusercontent.com/40469421/110237567-b8ddd380-7f62-11eb-9574-1714f3c1fd45.png)
 
-### **All in One Notebook:** Default_Predection.ipynb
+## **All in One Notebook:** Default_Predection.ipynb
+
+
+## **Credit Score Prediction**
+
+You can go ahead and try Credit Score Prediction using the "German Credit Dataset". 
+
+**Credit Score (Banking Terminology):** A credit score is a number between 300–850 that depicts a consumer's creditworthiness. The higher the score, the better a borrower looks to potential lenders. A credit score is based on credit history: number of open accounts, total levels of debt, and repayment history, and other factors.
+
+It Is Similar to Loan Prediction.
+
+The German Credit Dataset and its description is in the folder named "Credit Score"
