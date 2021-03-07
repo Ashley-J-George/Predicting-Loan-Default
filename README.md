@@ -36,4 +36,8 @@ In this data science project, we will predict borrowers chance of defaulting on 
 - Finrat
 - Savings
 
+**First five rows of the dataset**
+
+![image](https://user-images.githubusercontent.com/40469421/110237567-b8ddd380-7f62-11eb-9574-1714f3c1fd45.png)
+
 ### **All in One Notebook:** Default_Predection.ipynb
